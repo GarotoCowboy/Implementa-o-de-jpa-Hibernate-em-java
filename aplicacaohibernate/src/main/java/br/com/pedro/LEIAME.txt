@@ -1,0 +1,18 @@
+//Criado por Pedro Henrique Marques Rocha
+// 5º Período SI
+
+
+
+Verifique se o hibernate.cfg.xml e o persistence.xml estão com o ip e porta corretas
+e se estão sendo direcionados para o banco de dados.
+
+O programa não cria o banco de dados, ele apenas faz o crud e os selects criados
+
+O programa vem com um banco de dados já pronto para teste, porém caso queira criar o seu,
+abra as classes dentro da pasta DAO e crie as tabelas identicas ao que estão em @table(name = "nomeTabela")
+e as colunas com os nomes das variaveis privadas.
+
+Não estou fazendo tratamento de exceção então escreva corretamente caso contrario irá dar erro e o programa 
+pararar
+
+após isso é so rodar o codigo.
